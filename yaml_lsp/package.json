@@ -1,0 +1,13 @@
+{
+  "name": "yaml-lsp",
+  "version": "1.0.0",
+  "description": "YAML language server wrapper",
+  "main": "index.js",
+  "repository": "https://github.com/martinRenou/yaml-lsp",
+  "author": "Martin Renou",
+  "license": "BSD 3-Clause",
+  "private": true,
+  "dependencies": {
+    "yaml-language-server": "^0.17.0"
+  }
+}

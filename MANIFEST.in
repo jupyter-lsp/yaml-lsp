@@ -1,0 +1,5 @@
+include yaml_lsp/package.json
+include yaml_lsp/yarn.lock
+recursive-include yaml_lsp/node_modules **
+include LICENSE
+include setup.cfg

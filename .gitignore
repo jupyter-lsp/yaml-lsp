@@ -1,0 +1,8 @@
+yaml_lsp.egg-info/*
+test/__pycache__/*
+yaml_lsp/__pycache__/*
+.pytest_cache/*
+build/*
+dist/*
+.coverage
+yaml_lsp/node_modules/*
