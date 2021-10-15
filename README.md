@@ -4,8 +4,16 @@ YAML language server for JupyterLab
 
 ## Installation
 
+Using pip:
+
 ```bash
-conda install -c conda-forge jupyterlab jupyterlab-lsp yaml-lsp
+pip install jupyterlab jupyterlab-lsp yaml-lsp
+```
+
+Using conda:
+
+```bash
+conda install jupyterlab jupyterlab-lsp yaml-lsp -c conda-forge
 ```
 
 ### Development installation
@@ -13,7 +21,7 @@ conda install -c conda-forge jupyterlab jupyterlab-lsp yaml-lsp
 ```bash
 conda install -c conda-forge yarn jupyterlab jupyterlab-lsp
 
-git clone https://github.com/martinRenou/yaml-lsp && cd yaml-lsp
+git clone https://github.com/jupyter-lsp/yaml-lsp && cd yaml-lsp
 
 cd yaml_lsp && yarn install && cd ..
 pip install .

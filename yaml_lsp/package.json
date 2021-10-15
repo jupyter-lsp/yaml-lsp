@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "YAML language server wrapper",
   "main": "index.js",
-  "repository": "https://github.com/martinRenou/yaml-lsp",
+  "repository": "https://github.com/jupyter-lsp/yaml-lsp",
   "author": "Martin Renou",
   "license": "BSD 3-Clause",
   "private": true,
